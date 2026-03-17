@@ -1,37 +1,73 @@
 <h1 align="center">Hi 👋, I'm Shreya Raundal</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">💻 Software Engineer | Java Full Stack Developer | Backend Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaraundal&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaraundal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaraundal" alt="shreyaraundal" /></a> </p>
-
-- 🔭 I’m currently working on [Nasa api implementation](https://github.com/ShreyaRaundal/NASA-API-Implementation-Project)
-
-- 🌱 I’m currently learning **Spring Boot | JPA | Servlets | RESTful APIs | Full Stack Development | Manual Testing**
-
-- 👯 I’m looking to collaborate on [Bank Management System – SQL Project](https://github.com/ShreyaRaundal/Bank-Management-System-SQL-Project)
-
-- 🤝 I’m looking for help with [Secure-Video-Steganography-System](https://github.com/ShreyaRaundal/Secure-Video-Steganography-System)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShreyaRaundal/Portfolio](https://github.com/ShreyaRaundal/Portfolio)
-
-- 💬 Ask me about **Java | Spring Boot | SQL | HTML | CSS | JavaScript | MySQL | Testing Concepts**
-
-- 📫 How to reach me **shreyaraundal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/raundalshr22133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raundalshr22133" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/shreya-raundal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shreya-raundal1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/shreyaraundal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/shreyaraundal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/geeksforgeeks.org/user/shreyargf02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/shreyargf02/" height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems using Java, Spring Boot & REST APIs
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaraundal&show_icons=true&locale=en&layout=compact" alt="shreyaraundal" /></p>
+## 🚀 About Me
+- 🔭 Currently working on: **NASA API Integration & Backend Systems**
+- 🌱 Learning: **System Design, Microservices, Spring Boot Advanced**
+- 💡 Interested in: **Backend Development & AI/ML Integration**
+- 👨‍💻 Portfolio: https://github.com/ShreyaRaundal/Portfolio
+- 📫 Email: **shreyaraundal@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaraundal&show_icons=true&locale=en" alt="shreyaraundal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaraundal&" alt="shreyaraundal" /></p>
+## 💻 Tech Stack
+
+### 🚀 Backend
+Java | Spring Boot | Hibernate | JDBC | REST APIs | Spring Security  
+
+### 🗄 Database
+MySQL | PostgreSQL | Oracle SQL  
+
+### 🌐 Frontend
+HTML | CSS | JavaScript  
+
+### ⚙️ Tools
+Git | GitHub | Docker | Postman  
+
+### 🤖 AI/ML (Basic Exposure)
+Python | Machine Learning Basics | Data Handling  
+
+---
+
+## 🔥 Featured Projects
+
+### 🌌 NASA API Integration Platform
+- Built full-stack application using **Spring Boot & MySQL**
+- Integrated real-time APIs (APOD, Mars Rover)
+- Implemented **JWT Authentication & REST APIs**
+
+### 🎬 Movie Management REST API
+- Developed scalable REST APIs using **Spring Boot**
+- Implemented CRUD operations and validation
+- Dockerized and deployed on cloud
+
+### 🔒 Video Steganography System
+- Secure data hiding using **AES encryption & LSB**
+- Designed modular system for encoding & decoding
+
+### 🏦 Bank Management System (SQL)
+- Designed relational database schema
+- Implemented optimized SQL queries & normalization
+
+---
+
+## 📊 Coding Profiles
+<p align="left">
+<a href="https://linkedin.com/in/shreya-raundal1" target="blank">LinkedIn</a> |
+<a href="https://leetcode.com/u/shreyaraundal" target="blank">LeetCode</a> |
+<a href="https://www.geeksforgeeks.org/user/shreyargf02/" target="blank">GeeksforGeeks</a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyaraundal&show_icons=true&locale=en" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaraundal" />
+</p>
